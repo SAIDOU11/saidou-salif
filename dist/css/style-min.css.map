@@ -1,1 +1,1 @@
-{"version":3,"sources":["..\\..\\style.scss"],"names":[],"mappings":"AAAA,qBAGE,qBAAA","file":"style-min.css","sourcesContent":["*,\r\n*::before,\r\n*::after {\r\n  box-sizing: border-box;\r\n}\r\n"]}
+{"version":3,"sources":["..\\..\\scss\\base\\_resets.scss"],"names":[],"mappings":"AAAA,qBAGE,qBAAA,CAGF,KACE,eAAA","file":"style-min.css","sourcesContent":["*,\r\n*::before,\r\n*::after {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  background: #000;\r\n}\r\n"]}
